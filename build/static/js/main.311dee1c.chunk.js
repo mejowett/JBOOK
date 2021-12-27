@@ -1,0 +1,2 @@
+(this.webpackJsonpjbook=this.webpackJsonpjbook||[]).push([[0],{4:function(e,o,t){"use strict";t.r(o);var n=t(3),r=t.n(n),c=t(1),s=function(){return Object(c.jsx)("h1",{children:"hi"})};r.a.render(Object(c.jsx)(s,{}),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.311dee1c.chunk.js.map
